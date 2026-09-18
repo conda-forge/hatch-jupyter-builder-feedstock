@@ -47,4 +47,5 @@ extra:
   recipe-maintainers:
     - blink1073
     - zsailer
-    - jupyterlab/release
+    - jtpio
+    - krassowski
